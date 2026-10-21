@@ -1,0 +1,7 @@
+[project]
+name = "genpark-webhook-delivery-retry-engine-and-exponential-backoff-jitter-skill"
+version = "1.0.0"
+description = "Idempotent webhook delivery engine, HMAC signature verifier, exponential backoff with full jitter, and DLQ triager"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
